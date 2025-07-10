@@ -12,8 +12,6 @@ This project is a two-stage AI-based tool for identifying and explaining vulnera
 - 💾 **Checkpoint-Based Training** with auto-saving every 15% progress
 - 🔄 **Fine-tuned on Juliet Test Suite dataset**
 
----
-
 ## 📁 Project Structure
 
 ├── app.py # Streamlit frontend
